@@ -1,0 +1,396 @@
+{
+  "count": 26,
+  "rpp": 26,
+  "result": {
+    "availableHours": [
+      {
+        "timeslot": 1575387000,
+        "available": true
+      },
+      {
+        "timeslot": 1575387900,
+        "available": true
+      },
+      {
+        "timeslot": 1575388800,
+        "available": true
+      },
+      {
+        "timeslot": 1575389700,
+        "available": true
+      },
+      {
+        "timeslot": 1575390600,
+        "available": true
+      },
+      {
+        "timeslot": 1575391500,
+        "available": true
+      },
+      {
+        "timeslot": 1575392400,
+        "available": true
+      },
+      {
+        "timeslot": 1575393300,
+        "available": true
+      },
+      {
+        "timeslot": 1575394200,
+        "available": true
+      },
+      {
+        "timeslot": 1575395100,
+        "available": true
+      },
+      {
+        "timeslot": 1575396000,
+        "available": true
+      },
+      {
+        "timeslot": 1575396900,
+        "available": true
+      },
+      {
+        "timeslot": 1575397800,
+        "available": true
+      },
+      {
+        "timeslot": 1575398700,
+        "available": true
+      },
+      {
+        "timeslot": 1575399600,
+        "available": true
+      },
+      {
+        "timeslot": 1575400500,
+        "available": true
+      },
+      {
+        "timeslot": 1575401400,
+        "available": true
+      },
+      {
+        "timeslot": 1575402300,
+        "available": true
+      },
+      {
+        "timeslot": 1575403200,
+        "available": true
+      },
+      {
+        "timeslot": 1575404100,
+        "available": true
+      },
+      {
+        "timeslot": 1575405000,
+        "available": true
+      },
+      {
+        "timeslot": 1575405900,
+        "available": true
+      },
+      {
+        "timeslot": 1575406800,
+        "available": true
+      },
+      {
+        "timeslot": 1575407700,
+        "available": true
+      },
+      {
+        "timeslot": 1575408600,
+        "available": true
+      },
+      {
+        "timeslot": 1575409500,
+        "available": true
+      }
+    ],
+    "unavailableHours": [
+      {
+        "timeslot": 1575327600,
+        "available": false
+      },
+      {
+        "timeslot": 1575328500,
+        "available": false
+      },
+      {
+        "timeslot": 1575329400,
+        "available": false
+      },
+      {
+        "timeslot": 1575330300,
+        "available": false
+      },
+      {
+        "timeslot": 1575331200,
+        "available": false
+      },
+      {
+        "timeslot": 1575332100,
+        "available": false
+      },
+      {
+        "timeslot": 1575333000,
+        "available": false
+      },
+      {
+        "timeslot": 1575333900,
+        "available": false
+      },
+      {
+        "timeslot": 1575334800,
+        "available": false
+      },
+      {
+        "timeslot": 1575335700,
+        "available": false
+      },
+      {
+        "timeslot": 1575336600,
+        "available": false
+      },
+      {
+        "timeslot": 1575337500,
+        "available": false
+      },
+      {
+        "timeslot": 1575338400,
+        "available": false
+      },
+      {
+        "timeslot": 1575339300,
+        "available": false
+      },
+      {
+        "timeslot": 1575340200,
+        "available": false
+      },
+      {
+        "timeslot": 1575341100,
+        "available": false
+      },
+      {
+        "timeslot": 1575342000,
+        "available": false
+      },
+      {
+        "timeslot": 1575342900,
+        "available": false
+      },
+      {
+        "timeslot": 1575343800,
+        "available": false
+      },
+      {
+        "timeslot": 1575344700,
+        "available": false
+      },
+      {
+        "timeslot": 1575345600,
+        "available": false
+      },
+      {
+        "timeslot": 1575346500,
+        "available": false
+      },
+      {
+        "timeslot": 1575347400,
+        "available": false
+      },
+      {
+        "timeslot": 1575348300,
+        "available": false
+      },
+      {
+        "timeslot": 1575349200,
+        "available": false
+      },
+      {
+        "timeslot": 1575350100,
+        "available": false
+      },
+      {
+        "timeslot": 1575351000,
+        "available": false
+      },
+      {
+        "timeslot": 1575351900,
+        "available": false
+      },
+      {
+        "timeslot": 1575352800,
+        "available": false
+      },
+      {
+        "timeslot": 1575353700,
+        "available": false
+      },
+      {
+        "timeslot": 1575354600,
+        "available": false
+      },
+      {
+        "timeslot": 1575355500,
+        "available": false
+      },
+      {
+        "timeslot": 1575356400,
+        "available": false
+      },
+      {
+        "timeslot": 1575357300,
+        "available": false
+      },
+      {
+        "timeslot": 1575358200,
+        "available": false
+      },
+      {
+        "timeslot": 1575359100,
+        "available": false
+      },
+      {
+        "timeslot": 1575360000,
+        "available": false
+      },
+      {
+        "timeslot": 1575360900,
+        "available": false
+      },
+      {
+        "timeslot": 1575361800,
+        "available": false
+      },
+      {
+        "timeslot": 1575362700,
+        "available": false
+      },
+      {
+        "timeslot": 1575363600,
+        "available": false
+      },
+      {
+        "timeslot": 1575364500,
+        "available": false
+      },
+      {
+        "timeslot": 1575365400,
+        "available": false
+      },
+      {
+        "timeslot": 1575366300,
+        "available": false
+      },
+      {
+        "timeslot": 1575367200,
+        "available": false
+      },
+      {
+        "timeslot": 1575368100,
+        "available": false
+      },
+      {
+        "timeslot": 1575369000,
+        "available": false
+      },
+      {
+        "timeslot": 1575369900,
+        "available": false
+      },
+      {
+        "timeslot": 1575370800,
+        "available": false
+      },
+      {
+        "timeslot": 1575371700,
+        "available": false
+      },
+      {
+        "timeslot": 1575372600,
+        "available": false
+      },
+      {
+        "timeslot": 1575373500,
+        "available": false
+      },
+      {
+        "timeslot": 1575374400,
+        "available": false
+      },
+      {
+        "timeslot": 1575375300,
+        "available": false
+      },
+      {
+        "timeslot": 1575376200,
+        "available": false
+      },
+      {
+        "timeslot": 1575377100,
+        "available": false
+      },
+      {
+        "timeslot": 1575378000,
+        "available": false
+      },
+      {
+        "timeslot": 1575378900,
+        "available": false
+      },
+      {
+        "timeslot": 1575379800,
+        "available": false
+      },
+      {
+        "timeslot": 1575380700,
+        "available": false
+      },
+      {
+        "timeslot": 1575381600,
+        "available": false
+      },
+      {
+        "timeslot": 1575382500,
+        "available": false
+      },
+      {
+        "timeslot": 1575383400,
+        "available": false
+      },
+      {
+        "timeslot": 1575384300,
+        "available": false
+      },
+      {
+        "timeslot": 1575385200,
+        "available": false
+      },
+      {
+        "timeslot": 1575386100,
+        "available": false
+      },
+      {
+        "timeslot": 1575410400,
+        "available": false
+      },
+      {
+        "timeslot": 1575411300,
+        "available": false
+      },
+      {
+        "timeslot": 1575412200,
+        "available": false
+      },
+      {
+        "timeslot": 1575413100,
+        "available": false
+      }
+    ]
+  },
+  "current_page": 1,
+  "total_pages": 1
+}

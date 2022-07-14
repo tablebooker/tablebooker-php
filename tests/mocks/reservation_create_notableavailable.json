@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "error_code": "no_table_available",
+  "error_explanation": "No table available"
+}

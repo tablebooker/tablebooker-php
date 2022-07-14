@@ -1,0 +1,168 @@
+{
+  "name": "L'Exemple",
+  "phone": "3232653297",
+  "url": "http://www.lexemple.be",
+  "facebook": null,
+  "twitter": null,
+  "yelp_id": null,
+  "foursquare_id": null,
+  "tablebooker_id": "0003487",
+  "email": "support-resto@foreach.be",
+  "opening_hours": {
+    "monday": [
+      {
+        "opens": "11:00",
+        "closes": "23:00"
+      }
+    ],
+    "tuesday": [
+      {
+        "opens": "07:30",
+        "closes": "23:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "opens": "07:30",
+        "closes": "23:00"
+      }
+    ],
+    "thursday": [
+      {
+        "opens": "07:30",
+        "closes": "23:00"
+      }
+    ],
+    "friday": [
+      {
+        "opens": "07:30",
+        "closes": "23:00"
+      }
+    ],
+    "saturday": [
+      {
+        "opens": "12:00",
+        "closes": "23:00"
+      }
+    ],
+    "sunday": [
+      {
+        "opens": "12:00",
+        "closes": "23:00"
+      }
+    ]
+  },
+  "tablebooker_page": "https://www.tablebooker.com/restaurant/0003487/LExemple",
+  "tablebooker_rating": 7.5,
+  "address": {
+    "street": "Lozenberg 11",
+    "city": "Zaventem",
+    "postal": "1930",
+    "country": "Belgium",
+    "coordinates": [
+      "50.869169",
+      "4.463548"
+    ]
+  },
+  "description": " ",
+  "categories": {
+    "kitchen": [
+      "Apero Bar",
+      "Argentijns",
+      "Belgisch-Frans",
+      "Frans",
+      "Vleesgerechten",
+      "Vegetarisch"
+    ],
+    "atmosphere": [
+      "Klassiek",
+      "Familie/kinderen"
+    ],
+    "price": [
+      "Minder dan 30 euro per persoon"
+    ],
+    "payment": [
+      "Contant",
+      "Bancontact/Mister Cash/PIN",
+      "Maaltijd cheques",
+      "Visa",
+      "MasterCard"
+    ],
+    "accessibility": [
+      "Rolstoel"
+    ],
+    "facilities": [
+      "Parkeergelegenheid",
+      "Wi-Fi"
+    ]
+  },
+  "images": [
+    "https://s3-eu-west-1.amazonaws.com/tablebooker-upload-production/restaurants/0003487/562a573721f9c.770.jpg",
+    "https://s3-eu-west-1.amazonaws.com/tablebooker-upload-production/restaurants/0003487/562a575bd8188.770.png"
+  ],
+  "has_menu": true,
+  "shifts": [
+    {
+      "id": "304087298",
+      "name": "Ontbijt",
+      "start": "07:00",
+      "end": "12:00"
+    },
+    {
+      "id": "33685506",
+      "name": "Lunch",
+      "start": "12:00",
+      "end": "17:00"
+    },
+    {
+      "id": "35782658",
+      "name": "Diner",
+      "start": "17:00",
+      "end": "23:45"
+    }
+  ],
+  "reservation_posibilities": {
+    "additional_reservation_data": {
+      "booking": [],
+      "personal": [],
+      "custom": []
+    },
+    "free_booking": {
+      "allowed": true,
+      "groups_allowed": false,
+      "max_guests": 7,
+      "groups_alert": "Voor groepen vanaf 8 personen dient u telefonisch contact met ons op te nemen op 03 265 32 97 of te mailen naar support-resto@foreach.be."
+    },
+    "groups": {
+      "allowed": false,
+      "min_guests": "8",
+      "max_guests": "18",
+      "alert": "Voor groepen vanaf 8 personen dient u telefonisch contact met ons op te nemen op 03 265 32 97 of te mailen naar support-resto@foreach.be."
+    },
+    "promotions": {
+      "allowed": true,
+      "has_promotions": true
+    },
+    "coupons": {
+      "allowed": true,
+      "has_coupons": true
+    },
+    "min_guests_reservation": "1",
+    "max_guests_reservation": 7,
+    "min_group_guests": "8"
+  },
+  "tracking": {
+    "google_analytics": {
+      "code": "UA-180662-10",
+      "html_element": "body"
+    },
+    "google_tag_manager": {
+      "code": "GTM-T3GH4SK",
+      "html_element": "body"
+    },
+    "facebook_pixel": {
+      "code": "687175051318877",
+      "html_element": "head"
+    }
+  }
+}

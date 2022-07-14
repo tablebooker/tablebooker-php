@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "error_code": "no_free_tables",
+  "error_explanation": "Iemand was je voor. Er zijn jammer genoeg geen tafels meer beschikbaar."
+}

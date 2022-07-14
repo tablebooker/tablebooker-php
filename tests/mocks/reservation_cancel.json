@@ -1,0 +1,6 @@
+{
+  "status": "OK",
+  "reservation_id": "123456789",
+  "reservation_status": "cancelled",
+  "messages": []
+}

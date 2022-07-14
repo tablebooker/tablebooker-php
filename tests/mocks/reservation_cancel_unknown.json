@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "error_code": "unknown_reservation",
+  "error_explanation": "Onbekende reservering"
+}

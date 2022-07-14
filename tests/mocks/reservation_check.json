@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "message": [
+    "Beste klanten. Indien u gereserveerd heeft en 25 min nadat u verwacht wordt nog niet aanwezig bent, wordt de tafel terug vrijgegeven. Dank u voor het begrip. ",
+    {
+      "icon": "fa fa-credit-card",
+      "text": "Er wordt voor deze reservering een voorschot van 20 euro gevraagd."
+    }
+  ],
+  "reason": null,
+  "reason_param": null
+}

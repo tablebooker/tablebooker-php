@@ -1,0 +1,6 @@
+{
+  "status": "no_reservation_possible",
+  "message": "Er is op dit uur helaas geen tafel meer beschikbaar voor 2 personen. Bel ons op 03 265 32 97 voor meer informatie of reservaties.",
+  "reason": "restaurant_closed",
+  "reason_param": null
+}

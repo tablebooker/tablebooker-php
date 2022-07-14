@@ -1,0 +1,11 @@
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/php.xml
+.idea/tablebooker-php.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea
+vendor
+composer.lock
+tablebooker-php.iml

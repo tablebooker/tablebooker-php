@@ -1,0 +1,28 @@
+{
+  "name": "tablebooker/tablebooker-php",
+  "description": "Tablebooker PHP Library",
+  "keywords": [
+    "tablebooker",
+    "restaurant reservations",
+    "api"
+  ],
+  "homepage": "https://tablebooker.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tablebooker and contributors",
+      "homepage": "https://tablebooker.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "guzzlehttp/guzzle": "~6.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0",
+    "mockery/mockery": "^0.9.9"
+  },
+  "autoload": {
+    "psr-4": { "Tablebooker\\" : "lib/" }
+  }
+}
