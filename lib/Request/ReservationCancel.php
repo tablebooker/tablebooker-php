@@ -11,7 +11,8 @@ class ReservationCancel implements RequestResource
     protected $userId;
     protected $status;
     protected $waiter;
-    protected $refund;
+    protected $refundType;
+    protected $refundAmount;
     protected $spam;
     protected $chargeGuarantee;
     protected $overrideAvailability;
@@ -26,21 +27,23 @@ class ReservationCancel implements RequestResource
      * @param string|null $userId Obfuscated user id
      * @param string|null $status Status
      * @param string|null $waiter Waiter name
-     * @param bool|null $refund Should a refund be made
+     * @param bool|null $refundType Refund type. One of 'full', 'default', 'none' or 'custom'
+     * @param int|null $refundAmount The amount to be refunded
      * @param bool|null $spam Mark reservation as spam
      * @param bool|null $chargeGuarantee Charge the guarantee for no shows
      * @param bool $overrideAvailability
      * @param string|null $source The source application of this change
      * @param string|null $message An explanation to send to the customer
      */
-    public function __construct($reservationId, $restaurantId, $userId=null, $status=null, $waiter=null, $refund=null, $spam=null, $chargeGuarantee=null, $overrideAvailability=false, $source=null, $message=null)
+    public function __construct($reservationId, $restaurantId, $userId=null, $status=null, $waiter=null, $refundType=null, $refundAmount=0, $spam=null, $chargeGuarantee=null, $overrideAvailability=false, $source=null, $message=null)
     {
         $this->reservationId = $reservationId;
         $this->restaurantId = $restaurantId;
         $this->userId = $userId;
         $this->status = $status;
         $this->waiter = $waiter;
-        $this->refund = $refund;
+        $this->refundType = $refundType;
+        $this->refundAmount = $refundAmount;
         $this->spam = $spam;
         $this->chargeGuarantee = $chargeGuarantee;
         $this->overrideAvailability = $overrideAvailability;
@@ -77,7 +80,8 @@ class ReservationCancel implements RequestResource
             'user_id' => $this->userId,
             'status' => $this->status,
             'waiter' => $this->waiter,
-            'refund' => $this->refund,
+            'refund_type' => $this->refundType,
+            'refund_amount' => $this->refundAmount,
             'spam' => $this->spam,
             'charge_guarantee' => $this->chargeGuarantee,
             'overrideAvailability' => $this->overrideAvailability,
